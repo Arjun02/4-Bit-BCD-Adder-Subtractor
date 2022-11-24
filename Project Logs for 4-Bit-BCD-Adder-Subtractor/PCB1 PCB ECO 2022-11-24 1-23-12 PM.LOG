@@ -1,0 +1,4 @@
+Added Component: Designator=SW3(SW_SDA01H1SBD)
+Added Pin To Net: NetName=5V Pin=SW3-1
+Added Pin To Net: NetName=MAN Pin=SW3-2
+Added Member To Class: ClassName=4B-BCD-AS Member=Component SW3 SW_SDA01H1SBD

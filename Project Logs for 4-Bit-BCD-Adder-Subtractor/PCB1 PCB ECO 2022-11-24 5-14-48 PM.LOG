@@ -1,0 +1,225 @@
+Removed Pin From Net: NetName=5V Pin=Q1-1
+Removed Pin From Net: NetName=NetQ1_4 Pin=Q1-6
+Removed Member From Class: ClassName=4B-BCD-AS Member=Q4
+Added Component: Designator=D3(FP-LTST-C150KRKT-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "631nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "54mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "75mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "639nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RESC3116X65X40ML10T20)
+Added Component: Designator=R36(RESC3116X65X40ML10T20)
+Added Component: Designator=U15(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1727-2827-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC86D,653/1727-2827-1-ND/763396?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC86D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC86D%2C653/Nexperia%20USA%20Inc./view-part/462082/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U16(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1727-2827-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC86D,653/1727-2827-1-ND/763396?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC86D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC86D%2C653/Nexperia%20USA%20Inc./view-part/462082/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U17(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1727-2827-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC86D,653/1727-2827-1-ND/763396?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC86D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC86D%2C653/Nexperia%20USA%20Inc./view-part/462082/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U18(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1727-2827-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC86D,653/1727-2827-1-ND/763396?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC86D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC86D%2C653/Nexperia%20USA%20Inc./view-part/462082/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U19(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1727-2827-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC86D,653/1727-2827-1-ND/763396?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC86D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC86D%2C653/Nexperia%20USA%20Inc./view-part/462082/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U20(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1727-2827-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC86D,653/1727-2827-1-ND/763396?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC86D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC86D%2C653/Nexperia%20USA%20Inc./view-part/462082/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=5V Pin=Q1-6
+Added Pin To Net: NetName=PWM Pin=Q2-2
+Added Pin To Net: NetName=MAN Pin=Q2-5
+Added Pin To Net: NetName=5V Pin=Q2-6
+Added Pin To Net: NetName=PWM Pin=Q3-2
+Added Pin To Net: NetName=B Pin=Q3-5
+Added Pin To Net: NetName=5V Pin=Q3-6
+Added Pin To Net: NetName=NetQ1_4 Pin=R26-1
+Added Pin To Net: NetName=B3 Pin=R36-2
+Added Pin To Net: NetName=GND Pin=SS3-3
+Added Pin To Net: NetName=B3 Pin=SS3-6
+Added Pin To Net: NetName=GND Pin=SS3-8
+Added Pin To Net: NetName=T Pin=U15-1
+Added Pin To Net: NetName=Z0 Pin=U15-2
+Added Pin To Net: NetName=T Pin=U15-4
+Added Pin To Net: NetName=Z1 Pin=U15-5
+Added Pin To Net: NetName=GND Pin=U15-7
+Added Pin To Net: NetName=T Pin=U15-9
+Added Pin To Net: NetName=Z2 Pin=U15-10
+Added Pin To Net: NetName=T Pin=U15-12
+Added Pin To Net: NetName=Z3 Pin=U15-13
+Added Pin To Net: NetName=5V Pin=U15-14
+Added Pin To Net: NetName=GND Pin=U16-1
+Added Pin To Net: NetName=B Pin=U16-4
+Added Pin To Net: NetName=GND Pin=U16-7
+Added Pin To Net: NetName=B Pin=U16-9
+Added Pin To Net: NetName=GND Pin=U16-12
+Added Pin To Net: NetName=5V Pin=U16-14
+Added Pin To Net: NetName=T Pin=U17-2
+Added Pin To Net: NetName=Z0 Pin=U17-3
+Added Pin To Net: NetName=Z1 Pin=U17-6
+Added Pin To Net: NetName=GND Pin=U17-7
+Added Pin To Net: NetName=Z2 Pin=U17-8
+Added Pin To Net: NetName=Z3 Pin=U17-11
+Added Pin To Net: NetName=5V Pin=U17-14
+Added Pin To Net: NetName=GND Pin=U18-1
+Added Pin To Net: NetName=B Pin=U18-4
+Added Pin To Net: NetName=GND Pin=U18-7
+Added Pin To Net: NetName=B Pin=U18-9
+Added Pin To Net: NetName=5V Pin=U18-14
+Added Pin To Net: NetName=T Pin=U19-1
+Added Pin To Net: NetName=GND Pin=U19-7
+Added Pin To Net: NetName=5V Pin=U19-14
+Added Pin To Net: NetName=GND Pin=U20-7
+Added Pin To Net: NetName=5V Pin=U20-14
+Added Pin To Net: NetName=A1Y1 Pin=U18-3
+Added Pin To Net: NetName=A1Y1 Pin=U20-2
+Added Net: Name=A1Y1
+Added Pin To Net: NetName=A2Y1 Pin=U18-6
+Added Pin To Net: NetName=A2Y1 Pin=U20-5
+Added Net: Name=A2Y1
+Added Pin To Net: NetName=A3Y1 Pin=U18-8
+Added Pin To Net: NetName=A3Y1 Pin=U20-10
+Added Net: Name=A3Y1
+Added Pin To Net: NetName=c3 Pin=R28-2
+Added Pin To Net: NetName=c3 Pin=SS3-4
+Added Net: Name=c3
+Added Pin To Net: NetName=g3 Pin=R26-2
+Added Pin To Net: NetName=g3 Pin=SS3-10
+Added Net: Name=g3
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R27-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-3
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-3
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_4 Pin=Q2-4
+Added Pin To Net: NetName=NetQ2_4 Pin=R27-1
+Added Net: Name=NetQ2_4
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-3
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_4 Pin=R28-1
+Added Pin To Net: NetName=NetQ3_4 Pin=R36-1
+Added Net: Name=NetQ3_4
+Added Pin To Net: NetName=NetU15_3 Pin=U15-3
+Added Pin To Net: NetName=NetU15_3 Pin=U16-2
+Added Pin To Net: NetName=NetU15_3 Pin=U18-2
+Added Net: Name=NetU15_3
+Added Pin To Net: NetName=NetU15_6 Pin=U15-6
+Added Pin To Net: NetName=NetU15_6 Pin=U16-5
+Added Pin To Net: NetName=NetU15_6 Pin=U18-5
+Added Net: Name=NetU15_6
+Added Pin To Net: NetName=NetU15_8 Pin=U15-8
+Added Pin To Net: NetName=NetU15_8 Pin=U16-10
+Added Pin To Net: NetName=NetU15_8 Pin=U18-10
+Added Net: Name=NetU15_8
+Added Pin To Net: NetName=NetU15_11 Pin=U15-11
+Added Pin To Net: NetName=NetU15_11 Pin=U16-13
+Added Net: Name=NetU15_11
+Added Pin To Net: NetName=NetU16_3 Pin=U16-3
+Added Pin To Net: NetName=NetU16_3 Pin=U17-1
+Added Pin To Net: NetName=NetU16_3 Pin=U19-2
+Added Net: Name=NetU16_3
+Added Pin To Net: NetName=NetU16_6 Pin=U16-6
+Added Pin To Net: NetName=NetU16_6 Pin=U17-4
+Added Pin To Net: NetName=NetU16_6 Pin=U19-5
+Added Net: Name=NetU16_6
+Added Pin To Net: NetName=NetU16_8 Pin=U16-8
+Added Pin To Net: NetName=NetU16_8 Pin=U17-9
+Added Pin To Net: NetName=NetU16_8 Pin=U19-10
+Added Net: Name=NetU16_8
+Added Pin To Net: NetName=NetU16_11 Pin=U16-11
+Added Pin To Net: NetName=NetU16_11 Pin=U17-12
+Added Net: Name=NetU16_11
+Added Pin To Net: NetName=NetU19_3 Pin=U19-3
+Added Pin To Net: NetName=NetU19_3 Pin=U20-1
+Added Net: Name=NetU19_3
+Added Pin To Net: NetName=NetU19_6 Pin=U19-6
+Added Pin To Net: NetName=NetU19_6 Pin=U20-4
+Added Net: Name=NetU19_6
+Added Pin To Net: NetName=NetU19_8 Pin=U19-8
+Added Pin To Net: NetName=NetU19_8 Pin=U20-9
+Added Net: Name=NetU19_8
+Added Pin To Net: NetName=O1Y1 Pin=U17-5
+Added Pin To Net: NetName=O1Y1 Pin=U19-4
+Added Pin To Net: NetName=O1Y1 Pin=U20-3
+Added Net: Name=O1Y1
+Added Pin To Net: NetName=O2Y1 Pin=U17-10
+Added Pin To Net: NetName=O2Y1 Pin=U19-9
+Added Pin To Net: NetName=O2Y1 Pin=U20-6
+Added Net: Name=O2Y1
+Added Pin To Net: NetName=O3Y1 Pin=U17-13
+Added Pin To Net: NetName=O3Y1 Pin=U20-8
+Added Net: Name=O3Y1
+Added Member To Class: ClassName=4B-BCD-AS Member=Component D3 LTST-C150KRKT
+Added Member To Class: ClassName=4B-BCD-AS Member=Component R36 100
+Added Member To Class: ClassName=4B-BCD-AS Member=Component SS3 XZFMDK10C
+Added Member To Class: ClassName=4B-BCD-AS Member=Component U15 74HC86D,653
+Added Member To Class: ClassName=4B-BCD-AS Member=Component U16 74HC86D,653
+Added Member To Class: ClassName=4B-BCD-AS Member=Component U17 74HC86D,653
+Added Member To Class: ClassName=4B-BCD-AS Member=Component U18 74HC08D,653
+Added Member To Class: ClassName=4B-BCD-AS Member=Component U19 74HC08D,653
+Added Member To Class: ClassName=4B-BCD-AS Member=Component U20 SN74AC32DR

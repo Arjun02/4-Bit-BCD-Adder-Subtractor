@@ -1,0 +1,77 @@
+Change Component Designator: OldDesignator=SS3 NewDesignator=SS4
+Change Component Designator: OldDesignator=SS4 NewDesignator=SS3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=Q1-1
+Added Pin To Net: NetName=PWM Pin=Q1-2
+Added Pin To Net: NetName=5V Pin=R10-2
+Added Pin To Net: NetName=MAN Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Pin To Net: NetName=Z1 Pin=U11-1
+Added Pin To Net: NetName=Z3 Pin=U11-2
+Added Pin To Net: NetName=Z3 Pin=U11-4
+Added Pin To Net: NetName=Z2 Pin=U11-5
+Added Pin To Net: NetName=GND Pin=U11-7
+Added Pin To Net: NetName=Z2 Pin=U11-9
+Added Pin To Net: NetName=Z1 Pin=U11-10
+Added Pin To Net: NetName=5V Pin=U11-14
+Added Pin To Net: NetName=K Pin=U12-5
+Added Pin To Net: NetName=GND Pin=U12-7
+Added Pin To Net: NetName=Z3 Pin=U12-9
+Added Pin To Net: NetName=5V Pin=U12-14
+Added Pin To Net: NetName=K Pin=U13-1
+Added Pin To Net: NetName=GND Pin=U13-2
+Added Pin To Net: NetName=MAN Pin=U13-3
+Added Pin To Net: NetName=PWM Pin=U14-3
+Added Pin To Net: NetName=5V Pin=U14-4
+Added Pin To Net: NetName=5V Pin=U14-8
+Added Pin To Net: NetName=B Pin=U10-8
+Added Net: Name=B
+Added Pin To Net: NetName=C Pin=U10-10
+Added Pin To Net: NetName=C Pin=U12-6
+Added Net: Name=C
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R11-2
+Added Pin To Net: NetName=NetC1_2 Pin=U14-2
+Added Pin To Net: NetName=NetC1_2 Pin=U14-6
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R11-3
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=R10-1
+Added Pin To Net: NetName=NetD1_2 Pin=U14-7
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R11-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-6
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetU10_2 Pin=U10-2
+Added Pin To Net: NetName=NetU10_2 Pin=U13-6
+Added Net: Name=NetU10_2
+Added Pin To Net: NetName=NetU10_5 Pin=U10-5
+Added Pin To Net: NetName=NetU10_5 Pin=U12-8
+Added Net: Name=NetU10_5
+Added Pin To Net: NetName=NetU10_9 Pin=U10-9
+Added Pin To Net: NetName=NetU10_9 Pin=U13-4
+Added Net: Name=NetU10_9
+Added Pin To Net: NetName=NetU11_3 Pin=U11-3
+Added Pin To Net: NetName=NetU11_3 Pin=U12-1
+Added Net: Name=NetU11_3
+Added Pin To Net: NetName=NetU11_6 Pin=U11-6
+Added Pin To Net: NetName=NetU11_6 Pin=U12-2
+Added Net: Name=NetU11_6
+Added Pin To Net: NetName=NetU11_8 Pin=U11-8
+Added Pin To Net: NetName=NetU11_8 Pin=U12-10
+Added Net: Name=NetU11_8
+Added Pin To Net: NetName=T Pin=Q1-5
+Added Pin To Net: NetName=T Pin=U10-6
+Added Net: Name=T
+Added Pin To Net: NetName=U10_1Y Pin=U10-3
+Added Pin To Net: NetName=U10_1Y Pin=U10-4
+Added Net: Name=U10_1Y
+Added Pin To Net: NetName=U12_1Y Pin=U12-3
+Added Pin To Net: NetName=U12_1Y Pin=U12-4
+Added Net: Name=U12_1Y
